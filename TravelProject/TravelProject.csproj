@@ -116,6 +116,8 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\AboutController.cs" />
+    <Compile Include="Controllers\BlogController.cs" />
     <Compile Include="Controllers\DefaultController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
@@ -126,6 +128,7 @@
     <Compile Include="Models\Siniflar\AdresBlog.cs" />
     <Compile Include="Models\Siniflar\AnaSayfa.cs" />
     <Compile Include="Models\Siniflar\Blog.cs" />
+    <Compile Include="Models\Siniflar\BlogYorum.cs" />
     <Compile Include="Models\Siniflar\Context.cs" />
     <Compile Include="Models\Siniflar\Hakkimizda.cs" />
     <Compile Include="Models\Siniflar\Iletisim.cs" />
@@ -152,6 +155,25 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="web2\web\about.html" />
+    <Content Include="web2\web\contact.html" />
+    <Content Include="web2\web\css\bootstrap.css" />
+    <Content Include="web2\web\css\style.css" />
+    <Content Include="web2\web\images\avatar.png" />
+    <Content Include="web2\web\images\icon3.png" />
+    <Content Include="web2\web\images\logo.jpg" />
+    <Content Include="web2\web\images\man.jpg" />
+    <Content Include="web2\web\images\more.png" />
+    <Content Include="web2\web\images\post1.jpg" />
+    <Content Include="web2\web\images\post2.jpg" />
+    <Content Include="web2\web\images\post3.jpg" />
+    <Content Include="web2\web\images\search.png" />
+    <Content Include="web2\web\index.html" />
+    <Content Include="web2\web\js\easing.js" />
+    <Content Include="web2\web\js\jquery.min.js" />
+    <Content Include="web2\web\js\move-top.js" />
+    <Content Include="web2\web\single.html" />
+    <Content Include="web2\web\w3layouts-License.txt" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -224,6 +246,9 @@
     <Content Include="Views\Shared\_TestLayout.cshtml" />
     <Content Include="Views\Default\Index.cshtml" />
     <Content Include="Views\Default\About.cshtml" />
+    <Content Include="Views\About\Index.cshtml" />
+    <Content Include="Views\Blog\Index.cshtml" />
+    <Content Include="Views\Blog\BlogDetay.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
