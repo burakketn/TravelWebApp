@@ -23,6 +23,7 @@ namespace TravelProject.Controllers
         public ActionResult BlogDetay(int id)
         {
             //var blogbul = c.Blogs.Where(x => x.ID == id).ToList();
+            //GÜNCELLEME
             by.Deger1 = c.Blogs.Where(x => x.ID == id).ToList();
             by.Deger2 = c.Yorumlars.Where(x => x.BlogID == id).ToList();
             return View(by);
