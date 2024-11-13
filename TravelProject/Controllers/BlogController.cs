@@ -19,12 +19,13 @@ namespace TravelProject.Controllers
         }
 
          
-        //BlogYorum by = new BlogYorum();
+        BlogYorum by = new BlogYorum();
         public ActionResult BlogDetay(int id)
         {
-            //by.Deger1 = c.Blogs.Where(x => x.ID == id).ToList();
-            var blogbul = c.Blogs.Where(x => x.ID == id).ToList();
-            return View(blogbul);
+            //var blogbul = c.Blogs.Where(x => x.ID == id).ToList();
+            by.Deger1 = c.Blogs.Where(x => x.ID == id).ToList();
+            by.Deger2 = c.Yorumlars.Where(x => x.BlogID == id).ToList();
+            return View(by);
         }
     }
 }

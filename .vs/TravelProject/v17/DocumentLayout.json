@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{21B48039-D0A5-45E5-B15D-A5C405ECECE9}|TravelProject\\TravelProject.csproj|solutionrelative:travelproject\\views\\blog\\blogdetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21B48039-D0A5-45E5-B15D-A5C405ECECE9}|TravelProject\\TravelProject.csproj|C:\\Users\\keten\\source\\repos\\TravelProject\\travelproject\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{21B48039-D0A5-45E5-B15D-A5C405ECECE9}|TravelProject\\TravelProject.csproj|c:\\users\\keten\\source\\repos\\travelproject\\travelproject\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{21B48039-D0A5-45E5-B15D-A5C405ECECE9}|TravelProject\\TravelProject.csproj|solutionrelative:travelproject\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -32,21 +32,9 @@
               "RelativeDocumentMoniker": "TravelProject\\Views\\Blog\\Index.cshtml",
               "ToolTip": "C:\\Users\\keten\\source\\repos\\TravelProject\\TravelProject\\Views\\Blog\\Index.cshtml",
               "RelativeToolTip": "TravelProject\\Views\\Blog\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T12:03:32.873Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BlogController.cs",
-              "DocumentMoniker": "C:\\Users\\keten\\source\\repos\\TravelProject\\TravelProject\\Controllers\\BlogController.cs",
-              "RelativeDocumentMoniker": "TravelProject\\Controllers\\BlogController.cs",
-              "ToolTip": "C:\\Users\\keten\\source\\repos\\TravelProject\\TravelProject\\Controllers\\BlogController.cs",
-              "RelativeToolTip": "TravelProject\\Controllers\\BlogController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T11:59:40.514Z",
+              "WhenOpened": "2024-11-13T10:05:17.508Z",
               "EditorCaption": ""
             },
             {
@@ -57,9 +45,23 @@
               "RelativeDocumentMoniker": "TravelProject\\Views\\Blog\\BlogDetay.cshtml",
               "ToolTip": "C:\\Users\\keten\\source\\repos\\TravelProject\\TravelProject\\Views\\Blog\\BlogDetay.cshtml",
               "RelativeToolTip": "TravelProject\\Views\\Blog\\BlogDetay.cshtml",
-              "ViewState": "AgIAABQAAAAAAAAAAAAEwA0AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T11:58:40.096Z"
+              "WhenOpened": "2024-11-12T11:58:40.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\keten\\source\\repos\\TravelProject\\TravelProject\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "TravelProject\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\keten\\source\\repos\\TravelProject\\TravelProject\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "TravelProject\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:59:40.514Z",
+              "EditorCaption": ""
             }
           ]
         }
